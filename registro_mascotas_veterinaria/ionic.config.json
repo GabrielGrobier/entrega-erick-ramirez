@@ -1,0 +1,7 @@
+{
+  "name": "registro_mascotas_veterinaria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
